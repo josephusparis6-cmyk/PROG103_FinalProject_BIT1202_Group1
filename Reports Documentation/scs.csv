@@ -1,0 +1,7 @@
+Transaction ID,Book Title,Borrower Name,Borrower ID,Issue Date,Due Date,Return Date,Status
+TX0001,Kamara Family,Samuel,STU0001,2026-06-30,2026-07-14,2026-06-30,Returned
+TX0002,Kamara Family,Samuel,STU001,2026-06-30,2026-07-14,,Borrowed
+TX0003,Kamara Family,Demo Student,student,2026-06-30,2026-07-14,2026-06-30,Returned
+TX0004,Kamara Family,Demo Student,student,2026-06-30,2026-07-14,2026-06-30,Returned
+TX0005,Kamara Family,John,STU-0004,2026-06-30,2026-07-14,,Borrowed
+TX0006,Kamara Family,Demo Student,student,2026-06-30,2026-07-14,,Borrowed

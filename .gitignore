@@ -1,0 +1,20 @@
+# LibrarySys - .gitignore
+
+# Application data (auto-generated at runtime; should not be committed)
+data.json
+data.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
